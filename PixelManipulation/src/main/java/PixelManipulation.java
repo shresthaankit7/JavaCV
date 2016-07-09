@@ -3,6 +3,6 @@
  */
 public class PixelManipulation {
     public static void main(String[] args) {
-        System.out.println("KJEKRwerJEKJR");
+        System.out.println("KJerJEKJR");
     }
 }

@@ -4,6 +4,6 @@
 public class ImageDifference {
 
     public static void main(String[] args) {
-        System.out.println("KJKRKEJKEJ");
+        System.out.println("KRKEJKEJ");
     }
 }
